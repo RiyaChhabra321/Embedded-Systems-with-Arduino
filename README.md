@@ -1,7 +1,5 @@
 # Embedded-Systems-with-Arduino
 
-# Embedded Systems with Arduino 🔌
-
 This repository contains my hands-on work and practice files after completing a **Beginner Embedded Systems course by GeeksforGeeks**.
 
 The course focused on building a strong foundation in **embedded systems using Arduino**, covering both **hardware interfacing** and **embedded programming** concepts.
